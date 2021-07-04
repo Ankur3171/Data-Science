@@ -1,1 +1,2 @@
-# powerBi_AdventureWorks
+# PowerBIAdvWorks
+PowerBI Adventureworks data analysis
